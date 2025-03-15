@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**nihadelesgerov/nihadelesgerov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi , I am Nihad 👋 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm .net developer passionate about building web application with a lot of features (MVC | Razor Page |  Web API )
+-
+- How to reach me: [Email me](mailto:nihadelesgerov0@gmail.com)
+-
+- ## 🚀 Nihad Alasgarov's GitHub Stats
+-
+-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihadelesgerov&show_icons=true&theme=dark)
+-
+- ## 🏆 Most Used Languages
+-
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihadelesgerov&layout=compact&theme=dark)
+-
+- ### 📫 Connect with me:
+- 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihad-alasgarov-a8586a341/)
+-
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihadelesgerov)
