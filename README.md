@@ -6,10 +6,13 @@
 - I'm .net developer passionate about building web application with a lot of features (MVC | Razor Page |  Web API )
 -
 - How to reach me: [Email me](mailto:nihadelesgerov0@gmail.com)
-- ## 🚀 Nihad Alasgarov's GitHub Stats
+
+ ## 🚀 Nihad Alasgarov's GitHub Stats
 -   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nihadelesgerov&show_icons=true&theme=dark)
-- ## 🏆 Most Used Languages
+
+ ## 🏆 Most Used Languages
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihadelesgerov&layout=compact&theme=dark)
-- ### 📫 Connect with me:
+
+ ### 📫 Connect with me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihad-alasgarov-a8586a341/)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihadelesgerov)
